@@ -93,7 +93,7 @@ class Scratch3YourExtension {
      */
     myFirstBlock ({ MY_NUMBER, MY_STRING }) {
         // example implementation to return a string
-        return MY_STRING + ' : doubled would be ' + (MY_NUMBER * 2);
+        return MY_STRING + ' : doubled would be ' + (MY_NUMBER * 3);
     }
 }
 
